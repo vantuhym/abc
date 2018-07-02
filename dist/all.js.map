@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["abc","console","log"],"mappings":";;AAEC,IAAIA,MAAM,SAANA,GAAM,GAAI;AACbC,SAAQC,GAAR,CAAY,cAAZ;AACA,CAFD;AAGAF","file":"all.js","sourcesContent":["\n\n\tvar abc = ()=>{\n\t\tconsole.log(\"nguyen vabnt\");\n\t}\n\tabc();\n"]}
